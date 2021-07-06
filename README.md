@@ -4,9 +4,9 @@
 
 ## I'm Zheng Pan
 
-A technical narrator of China. Aha! 😜
+I am a web developer. Aha! 😜
 
-_MAKE IT BETTER!_
+_Look at this!_
 
 - 博客园: https://www.cnblogs.com/guchengnan
 - 个人站点: http://panzheng.xyz
