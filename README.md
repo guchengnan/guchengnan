@@ -1,4 +1,4 @@
-<img src="http://panzheng.xyz/images/resource/wechat.jpg" alt="WeChat: PanZheng" align="right" height="240">
+<img src="http://panzheng.xyz/images/wechat.jpg" alt="WeChat: PanZheng" align="right" height="240">
 
 #### 👋 Hey! Guys
 
